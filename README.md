@@ -1,6 +1,3 @@
-# Diabetes-Health-Indicators-ML-Project
-
-
 # Diabetes Health Indicators ML Project
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_APP_URL_HERE)
