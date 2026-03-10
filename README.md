@@ -75,8 +75,6 @@ diabetes-health-indicators-ml/
 └── README.md
 ```
 
-> **Note:** `regression_model.joblib` is saved by the notebook but was missing from the original README's project structure — it has been added above.
-
 ---
 
 ## 📊 Dataset
@@ -140,7 +138,6 @@ The dataset (`data/raw/diabetes_dataset.csv`) contains synthetic but clinically 
 | `diabetes_stage` | Multiclass | Gestational / No Diabetes / Pre-Diabetes / Type 1 / Type 2 |
 | `diabetes_risk_score` | Continuous | Risk score ranging from 2.7 to 67.2 |
 
-> ⚠️ **Important correction:** The original README described `diabetes_stage` as numeric classes 0–4 (No Risk → Diabetic). The actual dataset uses named string classes: **Gestational, No Diabetes, Pre-Diabetes, Type 1, Type 2**, which are label-encoded in preprocessing.
 
 ---
 
@@ -431,7 +428,7 @@ This project is open-source. See the repository for license details.
 
 ## 👤 Author
 
-**Bilal H.**  
+**Bilal Hussain**  
 GitHub: [@Bilalh429](https://github.com/Bilalh429)
 
 ---
